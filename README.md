@@ -24,8 +24,8 @@ A **Telegram shilling bot** is a software tool that automates project promotion 
 - [🛠️ Latest Updates](#️-latest-updates)
 - [📦 Additional Software](#-additional-software)
 - [💬 Customer Testimonials](#-customer-testimonials)
+- [🔗 Related Resources](#-related-resources)
 - [🔗 Contact & Purchase](#-contact--purchase)
-- [📝 Contribution](#-contribution)
 
 ---
 
@@ -119,6 +119,13 @@ Explore the bot's full capabilities in this detailed demo:
 
 Since **2021**, this bot has helped users promote projects in **crypto, OnlyFans**, and more.  
 - **Real Testimonials**: See all feedback on our [Telegram Channel](https://t.me/QQSHILL).
+
+---
+
+## 🔗 Related Resources
+
+💡 Looking for a **free list of Telegram shilling groups** to jumpstart your campaigns?  
+👉 Check out our [Telegram Shilling Groups List (Free)](https://github.com/QQSHILL/telegram-shilling-groups-list).  
 
 ---
 
