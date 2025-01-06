@@ -65,7 +65,7 @@ Watch our reel on Vimeo to see millions of messages sent every month:
 [![Watch the QQSHILL Reel](https://img.shields.io/badge/Watch%20Reel-Vimeo-blue?logo=vimeo)](https://vimeo.com/1022066475?share=copy)  
 **Caption**: Sending millions of messages effortlessly.
 
-**Full Demo – Telegram Shilling Bot 2024**  
+**Full Demo – Telegram Shilling Bot 2025**  
 Explore the bot's full capabilities in this detailed demo:  
 [![Watch the Full Demo](https://img.shields.io/badge/Watch%20Demo-Vimeo-blue?logo=vimeo)](https://vimeo.com/1022055687?share=copy)  
 **Caption**: Discover how the bot runs 24/7 across multiple Telegram groups.
