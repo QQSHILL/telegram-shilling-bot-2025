@@ -4,7 +4,7 @@
 ![Platform - Windows](https://img.shields.io/badge/platform-Windows-blue?logo=windows&logoColor=white)  
 ![Platform - Mac](https://img.shields.io/badge/platform-Mac-orange?logo=apple)  
 ![Platform - VPS](https://img.shields.io/badge/platform-Windows%20VPS-blueviolet)  
-![Last Updated](https://img.shields.io/badge/updated-January%2006,%202025-informational)  
+![Last Updated](https://img.shields.io/badge/updated-February%2026,%202025-informational)  
 ![Community](https://img.shields.io/badge/community-active-brightgreen)
 
 A **Telegram shilling bot** is a software tool that automates project promotion by posting messages in **multiple Telegram groups** every few seconds, **24/7**. It’s designed to give your project maximum visibility, allowing you to reach targeted communities effortlessly. With **1 license**, you can run multiple Telegram accounts and post to different groups **simultaneously**—all on **one computer**.
@@ -126,6 +126,7 @@ Since **2021**, this bot has helped users promote projects in **crypto, OnlyFans
 
 💡 Looking for a **free list of Telegram shilling groups** to jumpstart your campaigns?  
 👉 Check out our [Telegram Shilling Groups List (Free)](https://github.com/QQSHILL/telegram-shilling-groups-list).  
+👉 Read more on [What is a telegram shilling bot?](https://qqshill.com/blog/what-is-a-telegram-shilling-bot/)
 
 ---
 
