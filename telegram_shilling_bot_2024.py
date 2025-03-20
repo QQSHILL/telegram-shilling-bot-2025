@@ -1,14 +1,14 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Tue Oct 22 19:16:21 2024
+Updated on Thu March 20 04:00:21 2025
 
-@author: telegram_shilling_bot
+@author: @QQSHILL
 """
 
 
 def introduction():
-    print("\n🌟 Welcome to the Telegram Shilling Bot 2024 Repository! 🌟")
+    print("\n🌟 Welcome to the Telegram Shilling Bot 2025 Repository! 🌟")
     print("\nThis bot helps you promote your project across multiple Telegram groups.")
     print("You can run multiple Telegram accounts at the same time with just one license!")
     print("Here’s a quick overview of what’s inside:")
