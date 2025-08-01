@@ -4,7 +4,7 @@
 ![Platform - Windows](https://img.shields.io/badge/platform-Windows-blue?logo=windows&logoColor=white)  
 ![Platform - Mac](https://img.shields.io/badge/platform-Mac-orange?logo=apple)  
 ![Platform - VPS](https://img.shields.io/badge/platform-Windows%20VPS-blueviolet)  
-![Last Updated](https://img.shields.io/badge/updated-July%2001,%202025-informational)  
+![Last Updated](https://img.shields.io/badge/updated-August%2001,%202025-informational)  
 ![Community](https://img.shields.io/badge/community-active-brightgreen)
 
 A **Telegram shilling bot** is a software tool that automates project promotion by posting messages in **multiple Telegram groups** every few seconds, **24/7**. It’s designed to give your project maximum visibility, allowing you to reach targeted communities effortlessly. With **1 license**, you can run multiple Telegram accounts and post to different groups **simultaneously**—all on **one computer**.
